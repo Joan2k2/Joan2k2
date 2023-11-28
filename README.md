@@ -1,4 +1,4 @@
-### Welcome to my Profile 👋
+## Github Stats:### Welcome to my Profile 👋
 
 
 ![profile](https://github.com/Joan2k2/Joan2k2/assets/73341459/7edd3641-9161-4269-97d2-d1ca2094f5d8)
@@ -20,8 +20,8 @@
 ![Static Badge](https://img.shields.io/badge/Trello-%230052CC?logo=trello&labelColor=%2341454A)
 
 
-
-
+## Github Stats:📈
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joan2k2&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
 
