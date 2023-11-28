@@ -3,7 +3,8 @@
 
 ![profile](https://github.com/Joan2k2/Joan2k2/assets/73341459/7edd3641-9161-4269-97d2-d1ca2094f5d8)
 
-
+#### Programming Languages:💻
+![Static Badge](https://img.shields.io/badge/javascript-%2341454A?logo=javascript&labelColor=%2341454A)
 
 
 
