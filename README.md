@@ -1,7 +1,6 @@
 ### Welcome to my Profile 👋
 
-
-<img src="[URL_DEL_GIF](https://github.com/Joan2k2/Joan2k2/assets/73341459/66832a7c-fd89-4b71-9488-7a8e002430af)" alt="Descripción" width="800" height="400">
+![profile](https://github.com/Joan2k2/Joan2k2/assets/73341459/66832a7c-fd89-4b71-9488-7a8e002430af)
 
 <!--
 **Joan2k2/Joan2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
