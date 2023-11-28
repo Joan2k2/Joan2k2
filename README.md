@@ -1,4 +1,4 @@
-## Github Stats:### Welcome to my Profile 👋
+#### Welcome to my Profile 👋
 
 
 ![profile](https://github.com/Joan2k2/Joan2k2/assets/73341459/7edd3641-9161-4269-97d2-d1ca2094f5d8)
