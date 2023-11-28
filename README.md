@@ -5,6 +5,8 @@
 
 #### Programming Languages:💻
 ![Static Badge](https://img.shields.io/badge/javascript-%2341454A?logo=javascript&labelColor=%2341454A)
+![Static Badge](https://img.shields.io/badge/java-%2341454A?logo=java&labelColor=%2341454A)
+
 
 
 
