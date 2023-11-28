@@ -5,7 +5,10 @@
 
 #### Programming Languages:💻
 ![Static Badge](https://img.shields.io/badge/javascript-%2341454A?logo=javascript&labelColor=%2341454A)
-![Static Badge](https://img.shields.io/badge/java-%2341454A?logo=java&labelColor=%2341454A)
+![Static Badge](https://img.shields.io/badge/java-%23EF9421?logo=java)
+![Static Badge](https://img.shields.io/badge/mongodb-%2347A248?logo=mongodb&labelColor=%232C2B29)
+
+
 
 
 
