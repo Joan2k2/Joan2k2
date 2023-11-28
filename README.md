@@ -7,6 +7,9 @@
 ![Static Badge](https://img.shields.io/badge/javascript-%2341454A?logo=javascript&labelColor=%2341454A)
 ![Static Badge](https://img.shields.io/badge/java-%23EF9421?logo=java)
 ![Static Badge](https://img.shields.io/badge/mongodb-%2347A248?logo=mongodb&labelColor=%232C2B29)
+![Static Badge](https://img.shields.io/badge/html5-%23E34F26?logo=html5&labelColor=%232C2B29)
+![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&labelColor=%2341454A)
+
 
 
 
