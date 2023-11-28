@@ -1,6 +1,6 @@
 ### Welcome to my Profile 👋
 
-![profile](https://github.com/Joan2k2/Joan2k2/assets/73341459/32993ecd-a763-40dd-95a0-6d6d7922c9d4)
+![_profile](https://github.com/Joan2k2/Joan2k2/assets/73341459/582643eb-a6b0-4bbc-b8b3-4f94a565f119)
 
 
 
