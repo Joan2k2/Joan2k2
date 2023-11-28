@@ -1,4 +1,5 @@
-#### Welcome to my Profile 👋
+<h1 align="center">🛠️working in progress🛠️</h1>
+<p>Welcome to my Profile 👋</p>
 
 
 ![profile](https://github.com/Joan2k2/Joan2k2/assets/73341459/7edd3641-9161-4269-97d2-d1ca2094f5d8)
@@ -20,14 +21,12 @@
 ![Static Badge](https://img.shields.io/badge/Trello-%230052CC?logo=trello&labelColor=%2341454A)
 
 
+
+<!--
 ## Github Stats:📈
 ![](https://github-readme-stats.vercel.app/api/pin/?username=Joan2k2&repo=Joan-Ruiz-2Daw&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
-
-
-
-<!--
 **Joan2k2/Joan2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
