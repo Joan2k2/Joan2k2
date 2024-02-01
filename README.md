@@ -1,4 +1,4 @@
-<h1 align="center">🛠️working in progress🛠️</h1>
+<h1 align="center">🛠️work in progress🛠️</h1>
 <p>Welcome to my Profile 👋</p>
 
 
